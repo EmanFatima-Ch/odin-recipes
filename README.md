@@ -1,5 +1,8 @@
 # odin-recipes
-The first project of TOP
+This is the first project of TOP foundations course
+
+
+
 photo credits 
 biryani-Photo by Photo by <a href="https://unsplash.com/@shreyaksingh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shreyak Singh</a> on <a href="https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-0j4bisyPo3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
