@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(171, 166, 127);
+    max-width: 200px;
+}
+#main{
+    color: red;
+    text-align: center;
+    border: 2px solid red;
+}
+.main{
+    color:brown;
+    text-align: center;
+}
+.menue{
+    color:black;
+    border: 2px;
+    padding: 5px;
+    margin: 12px;
+}

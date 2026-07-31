@@ -1,10 +1,11 @@
 # odin-recipes
-This is the first project of TOP foundations course
+This is the first project of TOP foundations course ,a practice work,recipe menue
+i have used basic html and css concepts to get its practical understanding
 
 
 
 photo credits 
-biryani-Photo by Photo by <a href="https://unsplash.com/@shreyaksingh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shreyak Singh</a> on <a href="https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-0j4bisyPo3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+biryani-Photo by <a href="https://unsplash.com/@shreyaksingh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shreyak Singh</a> on <a href="https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-0j4bisyPo3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
       
 nihari-Photo by <a href="https://unsplash.com/@rimshaj123?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rimsha Noor</a> on <a href="https://unsplash.com/photos/a-bowl-of-soup-on-a-wooden-table-YAfJ0LC-uNE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
